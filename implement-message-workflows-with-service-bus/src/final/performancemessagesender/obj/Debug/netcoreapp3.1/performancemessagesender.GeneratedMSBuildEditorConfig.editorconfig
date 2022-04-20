@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = performancemessagesender
+build_property.ProjectDir = c:\Users\tioleson\AzureServiceBusExercise\mslearn-connect-services-together\implement-message-workflows-with-service-bus\src\final\performancemessagesender\
