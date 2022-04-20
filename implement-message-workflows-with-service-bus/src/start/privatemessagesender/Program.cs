@@ -8,7 +8,7 @@ namespace privatemessagesender
     class Program
     {
 
-        const string ServiceBusConnectionString = "Endpoint=sb://salesteamappcontoso22.servicebus.windows.net/;SharedAccessKeyName=RootManageSharedAccessKey;SharedAccessKey=XAV90dAm6P/6+88zfL8Rh9ry/SHtQ7fc6yRSxXfM4co=";
+        const string ServiceBusConnectionString = "";
         const string QueueName = "salesmessages";
 
         static void Main(string[] args)
